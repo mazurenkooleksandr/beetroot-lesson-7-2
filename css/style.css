@@ -65,14 +65,14 @@ body {
     border: 1 solid transparent;
 }
 
-.img-first-container {
+.first-container {
     position: relative;
 }
 
 .text-on-picture {
     position: absolute;
 	top: 270px;
-    left: 180px;
+    left: 20px;
     width: 100%;   
 }
 
